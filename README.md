@@ -2,7 +2,7 @@
 
 > An interactive web-based platform to learn C programming through videos, quizzes, and engaging mini-games.
 
-🌐 **Live Site**: [https://quiet-praline-d07599.netlify.app/dashboard](https://quiet-praline-d07599.netlify.app/dashboard)
+🌐 **Live Site**: [https://quiet-praline-d07599.netlify.app/](https://quiet-praline-d07599.netlify.app/)
 
 ---
 
