@@ -22,7 +22,7 @@ The platform is ideal for beginners and students who want to master C programmin
 
 ## 🚀 Features
 
-- ✅ Level-based progression (10 levels)
+- ✅ Level-based progression (8 levels)
 - ✅ Mini-games and quizzes to reinforce learning
 - ✅ Instructional videos for every topic
 - ✅ Real-time score tracking and dashboards
@@ -52,5 +52,3 @@ The platform is ideal for beginners and students who want to master C programmin
 | 6     | Arrays                       | Quiz + mini-game + code challenge                    |
 | 7     | Functions                    | Quiz + code + rearrange function logic               |
 | 8     | Pointers & Memory            | Interactive code + quizzes                           |
-| 9     | Debugging Challenge          | Maze-style debugging game                            |
-| 10    | File Handling & Algorithms   | Code challenges + certificate generation             |
